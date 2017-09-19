@@ -57,4 +57,4 @@
 *p.s. not sure about inlining bootstrap-grid.css, to get higher score on speed insight. its too big.*
 
 *Live version:*
-[https://rakhmanovr.github.io/frontend-nanodegree-mobile-portfolio/dist/views/pizza.html]
+[https://rakhmanovr.github.io/mobile-portfolio-optimization/dist/views/pizza.html]]
