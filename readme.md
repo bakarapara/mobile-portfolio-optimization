@@ -1,7 +1,7 @@
 ## Work accomplished
 
-* Work files located in the `app` folder
-* Ready project is in `dist` folder
+* Work files located in the `App` folder
+* Ready project is in `Dist` folder
 
 #### Build insctructions
 
