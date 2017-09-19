@@ -1,0 +1,21 @@
+{
+  "name": "mobile-portfolio-page-optimization",
+  "version": "0.0.5",
+  "description": "Optimization project",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.3.0"
+  },
+  "devDependencies": {
+    "gulp-inline-css": "^3.1.0",
+    "gulp-inline-source": "^3.1.0"
+  },
+  "scripts": {
+    "test": "none"
+  },
+  "author": "Rasim R.",
+  "license": "ISC"
+}
