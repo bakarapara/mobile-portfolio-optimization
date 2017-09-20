@@ -50,7 +50,7 @@
 4. Moved dx and newwidth variables outside for-in loop in `changePizzaSizes()` to avoid extra calculations
 5. Replaced `querySelectorAll` by `getElementsByClassName`, because its faster - https://jsperf.com/getelementsbyclassname-vs-queryselectorall
 6. Changed the number of generated moving pizzas based on viewport height instead of plain number
-7. Added "will-change: transform" to `.mover` class
+7. Added `will-change: transform` to `.mover` class
 
 **Got 89/100 on mobile 95/100 on desktop**
 
